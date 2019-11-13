@@ -1,21 +1,21 @@
-# Discord-Theme
+# Les Relous de Mer
 
-![alt text](https://i.ibb.co/z8GsgkW/Visual-Aspect.png)
+![alt text](https://cdn.discordapp.com/attachments/641383750189711365/644186834422988824/Example.png)
 
-🔰 Visual enhancements for the discord server Averuv 🔰 
+🔰 Améliorations visuelles pour le serveur discord Les Relous de Mer 🔰 
 
-How to install it ?
+Comment l'installer ?
 
-It's simple !
-Just do the following steps :
+C'est simple !
+Suivez juste les étapes suivantes :
 
-- Download as zip the repository.
-- Install the .exe
-- Check the button install to stable
-- Wait installation
+- Téléchargez le répertoire en zip
+- Installez le .exe
+- Cliquez sur le bouton install to stable (ne changez pas le répertoire par défaut)
+- Attendez la fin de l'installation
 
-Better Discord was just installed congratulations ! 😉
+Bravo, Better Discord vient juste de s'installer ! 😉
 
-In order to install the Averuv theme, just go on discord, settings, scroll down to themes and open theme folder then just paste the .css file inside it and enable it on discord !
+Pour installer le thème , allez sur discord, options, puis descendez jusqu'aux nouveaux onglets, puis themes et cliquez sur open theme folder puis déplacer le fichier .css à l'intérieur de celui-ci !
 
- -- > You can join the discord with this [link](https://discord.gg/4smcmrV) !
+ -- > Vous pouvez me rejoindre ici [link](https://discord.gg/4smcmrV) !
