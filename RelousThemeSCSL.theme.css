@@ -1,0 +1,37 @@
+//META{"name":"Les Relous de Mers Theme","description":"Theme du serveur Les Relous de Mers","author":"Z3R0xLEGEND#9409","version":"1.0"}*//{}
+
+@import url(https://cdn.discordthemes.net/file/notanotheranimetheme/scsl.css); /* Default css file */
+
+:root {
+ 
+    --background-image: url(https://cdn.discordapp.com/attachments/641383750189711365/644181780018102272/unknown.png); /* Background image displayed on discord */
+
+    --friends-icon: url(https://cdn.discordapp.com/attachments/641383750189711365/644180482573205504/Sans_titre_5.png); /* Home icon */
+
+    --friends-icon-position: center center; /* Position of the image in the place of the home icon */
+
+    --friends-icon-zoom: 100%; /* Zoom of the home icon */
+
+    --main-color: rgb(255, 255, 255); /* Main theme color for discord */
+
+    --main-transparency: rgba(149, 86, 40, 0.3); /* Default color of discord */
+
+    --unread-server-animation: rainbow; /* Animation for unreaded messages */
+
+    --hover-list-bg-color: rgba(0, 0, 0, 0.15); /* List hovered by mouse */
+
+    --border-lines-color: hsla(100,100%,100%,0.7); /* Lines color in discord */
+
+    --scroll-bar-color: rgba(255,255,255, 0.7); /* Scroll bar color */
+
+    --font-size: 19px; /* Chat messages size */
+
+    --selected-text-voice-color: rgba(255, 255, 255, 1); /* Font of a channel selected by*/
+
+    --channel-hover-text-color: rgba(255, 255, 255, 1); /* Color of a channel hovered by mouse */
+
+    --unread-text-color: #dcddde; /* Unreaded text /*
+
+                                /*R  G  B  ALPHA*/
+    --user-popup-background: rgba(149, 86, 40, 1); /* Pop up on clicking a member */
+}
